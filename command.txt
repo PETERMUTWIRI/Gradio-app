@@ -1,0 +1,18 @@
+# Change policy restriction on windows to use virtual environment
+1.Open PowerShell as an administrator:
+2.Press the Windows key.
+3.Type "PowerShell."
+4.Right-click on "Windows PowerShell" in the search results.
+5.Select "Run as administrator."
+
+#Run this on the terminal
+
+Get-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned
+
+
+# command to manuelly create virtual environment
+python -m venv venv
+venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
