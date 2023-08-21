@@ -77,8 +77,8 @@ This project was developed during the Azubi Africa Data Science Training. Below 
 | Name                | Article             | Github              |
 | ------------------- | ------------------- | ------------------- |
 | Isaac Sarpong       |                     |                     |
-| Israel Anaba Ayamga | [Bridging Data Science and Actionable Insights: Deploying a Customer Churn Prediction Model with Gradio](https://israelanaba.medium.com/bridging-data-science-and-actionable-insights-deploying-a-customer-churn-prediction-model-with-936b75310f0e) | [Israel_Anaba](https://github.com/Israel-Anaba) |
-| Peter Mutiwri       |                     |                     |
+| Israel Anaba Ayamga |                     |                     |
+| Peter Mutiwri       |https://medium.com/@mutpeet/title-predicting-customer-churn-with-machine-learning-a-gradio-app-3f0940696393                     |                     |
 | Emmanuel Morkeh     |                     |                     |
 
 ## Features ⛑️
